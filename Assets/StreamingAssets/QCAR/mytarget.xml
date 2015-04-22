@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="33333333" size="273.000000 138.016663" />
+    <ImageTarget name="60485133c6be5b8b" size="273.000000 138.016663" />
+    <ImageTarget name="unitytarget" size="500.000000 264.000000" />
+    <ImageTarget name="software" size="288.000000 360.000000" />
+    <ImageTarget name="yuji" size="504.000000 732.034607" />
+    <ImageTarget name="xiaoqiao" size="503.000000 733.359436" />
+    <ImageTarget name="xiahouyuan" size="504.000000 732.034607" />
+    <ImageTarget name="huangzhong" size="502.000000 726.236328" />
+  </Tracking>
+</QCARConfig>

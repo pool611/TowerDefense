@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4d55688cebc71f944942a276f6f404b2
+labels:
+- enemy
+- script
+- c#
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
